@@ -6,4 +6,4 @@
 
 ![Image Alt](https://github.com/mnelic/Student_Enrollment/blob/1e99533adb24725c7ec878e1efadee98a2208859/validation.png)
 
-![Image Alt(https://github.com/mnelic/Student_Enrollment/blob/1e99533adb24725c7ec878e1efadee98a2208859/edit.png)
+![Image Alt](https://github.com/mnelic/Student_Enrollment/blob/1e99533adb24725c7ec878e1efadee98a2208859/edit.png)
